@@ -1,0 +1,13 @@
+{
+  "name": "موسوعة الفيتامينات والمعادن",
+  "short_name": "الفيتامينات",
+  "description": "دليل تفاعلي شامل للفيتامينات والمعادن",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#a8e6cf",
+  "theme_color": "#2e7d32",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
